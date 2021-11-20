@@ -5,8 +5,8 @@
 
 #### 2. Install dependencies:
     pip install -r requirements.txt
-
 #### 3. Create a development database:
+    cd app
     python manage.py makemigrations
     python manage.py migrate
 

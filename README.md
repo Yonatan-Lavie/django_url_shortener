@@ -1,4 +1,9 @@
-## Local development
+# Project desctiption.
+
+>The purpose of this project is to create a more convenient and user-friendly way to access long URLs by generating shorter URLs that redirect to the original website.
+>This can be particularly useful for sharing links on social media platforms or messaging apps, where character limits are often imposed. By using this project, 
+>users can easily convert a lengthy URL into a concise and memorable link that is easier to share and remember.
+## Local deployment
 #### To run this project in your development machine, follow these steps:
 #### 1. Clone repo
     git clone https://github.com/Yonatan-Lavie/django_url_shortener.git
